@@ -12,7 +12,7 @@ import speech_recognition
 
 recognizer = speech_recognition.Recognizer()
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 #print('insideFile')
 
