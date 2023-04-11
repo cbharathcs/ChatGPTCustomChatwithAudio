@@ -1,0 +1,27 @@
+Looking in indexes: https://pypi.org/simple, https://download.pytorch.org/whl/cu116
+Collecting torch
+  Downloading torch-2.0.0-cp310-cp310-win_amd64.whl (172.3 MB)
+     -------------------------------------- 172.3/172.3 MB 5.8 MB/s eta 0:00:00
+Collecting torchvision
+  Downloading torchvision-0.15.1-cp310-cp310-win_amd64.whl (1.2 MB)
+     ---------------------------------------- 1.2/1.2 MB 10.9 MB/s eta 0:00:00
+Collecting torchaudio
+  Downloading torchaudio-2.0.1-cp310-cp310-win_amd64.whl (2.1 MB)
+     ---------------------------------------- 2.1/2.1 MB 11.3 MB/s eta 0:00:00
+Collecting sympy
+  Downloading https://download.pytorch.org/whl/sympy-1.11.1-py3-none-any.whl (6.5 MB)
+     ---------------------------------------- 6.5/6.5 MB 10.3 MB/s eta 0:00:00
+Requirement already satisfied: typing-extensions in d:\newtech\python\lib\site-packages (from torch) (4.2.0)
+Collecting networkx
+  Downloading networkx-3.1-py3-none-any.whl (2.1 MB)
+     ---------------------------------------- 2.1/2.1 MB 11.0 MB/s eta 0:00:00
+Collecting jinja2
+  Downloading https://download.pytorch.org/whl/Jinja2-3.1.2-py3-none-any.whl (133 kB)
+     -------------------------------------- 133.1/133.1 kB 8.2 MB/s eta 0:00:00
+Collecting filelock
+  Downloading filelock-3.11.0-py3-none-any.whl (10.0 kB)
+Requirement already satisfied: numpy in d:\newtech\python\lib\site-packages (from torchvision) (1.22.3)
+Requirement already satisfied: requests in d:\newtech\python\lib\site-packages (from torchvision) (2.27.1)
+Collecting pillow!=8.3.*,>=5.3.0
+  Downloading Pillow-9.5.0-cp310-cp310-win_amd64.whl (2.5 MB)
+     ---------------------------------------- 2.5/2.5 MB 9.4 MB/s eta 0:00:00
